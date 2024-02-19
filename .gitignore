@@ -1,0 +1,4 @@
+server/serviceAccountKey.json
+server/node_modules
+client/node_modules
+server-prod/node_modules
